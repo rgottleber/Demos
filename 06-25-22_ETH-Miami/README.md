@@ -4,7 +4,8 @@
 Resources for live session from ETH-Miami
 
 ---
-Links:
+## Links:
+
 Discord Chat: http://chn.lk/chainlink-discord 
 
 Documentation: http://docs.chain.link 
